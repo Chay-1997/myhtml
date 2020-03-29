@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+<title>My website</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<!-- style here helps to add certain more features to website -->
+
+
+</head>
+<!-- style helps to set background color for website -->
+<body style="background-color:LightGray;">
+
+<header>
+<!-- center tag allows to put certain in center -->
+<p><h1><center>MY FAVOURITE BOOKS</center></h1></p>
+
+</br>
+</br>
+</header>
+<main>
+<h2><p>  The Books I Loved So Far  </p></h2>
+<br>
+<br>
+<ol>
+<h2>
+<li>Pride And Prejudice, <strong>By Jane Austen</strong> </li>
+</br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/PrideAndPrejudiceTitlePage.jpg" width= "500" height="500">
+</br>
+<a href="https://en.wikipedia.org/wiki/Pride_and_Prejudice">Jane Austin</a>
+
+
+</br>
+</br>
+<li>The Secret Dairy Of Adrian Mole,  <strong>By Sue Townsend</strong>  </li>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/TheSecretDiaryOfAdrianMole.jpg/220px-TheSecretDiaryOfAdrianMole.jpg" width= "500" height="500">
+</br>
+<a href="https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole,_Aged_13%C2%BE">Sue Townsend</a>
+</br>
+</br>
+
+
+<li>Charlie And Choclate Factory,  <strong>By Roald Dahl</strong></li>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_and_the_Chocolate_Factory_original_cover.jpg" width= "500" height="500">
+</br>
+<a href="https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory">Roald Dahl</a>
+</br></br>
+
+
+
+
+
+<li>Things Fall Apart,  <strong>By Chinua Achebe</strong> </li>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/ThingsFallApart.jpg/220px-ThingsFallApart.jpg" width= "500" height="500">
+</br>
+<a href="https://en.wikipedia.org/wiki/Things_Fall_Apart">Chinua Achebe</a>
+</br>
+</br>
+
+<li>1984<strong>By George Orwell</strong></li>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/1984first.jpg/220px-1984first.jpg" width= "500" height="500">
+</br>
+<a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four">George Orwell</a>
+</br>
+</br>
+</h2>
+</ol>
+
+<!-- form is the technique through which we can include certain validations from user -->
+<!-- input is the type trough which you want an certain validation to occur -->
+
+<form action="" methods="">
+<p><strong> Which Books Did You Read </strong></p></br>
+1984
+<input type="checkbox" name="">
+</br>
+Things Fall Apart
+<input type="checkbox" name="">
+</br>
+Charlie And Choclate Factory
+<input type="checkbox" name="">
+</br>
+The Secret Dairy Of Adrian Mole
+<input type="checkbox" name="">
+</br>
+Pride And Prejudice
+<input type="checkbox" name="">
+</br>
+
+</form>
+
+<!-- iframe helps to display a web page within a web page -->
+</br>
+</br>
+</br>
+<iframe height="300px" width="100%" src="1html.html" name="iframe_a"></iframe>
+
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+
+
+
+</main>
+
+<footer>
+<p>This Is My footer</p>
+</footer>
+
+
+</body>
+
+</html>
