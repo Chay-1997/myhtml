@@ -1,0 +1,360 @@
+
+
+
+
+#first{
+  text-align: center;
+  text-decoration: underline;
+}
+body{
+    background-color: darkgoldenrod;
+    font-family: monospace;
+}
+.hero-image {
+    background-image:url("https://images.pexels.com/photos/2231158/pexels-photo-2231158.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    padding:50px 60px 50px 60px;
+    background-position: center;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: relative;
+    padding: 20px 30px 40px 50px;
+    color: whitesmoke;
+  }
+.column{
+    float:left;
+    width:30%;
+padding:10px;
+}
+.row::after{
+    content:"";
+    clear: both;
+    display:table;
+}
+
+
+
+
+
+#content
+{
+  background-color: blanchedalmond;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  border-radius: 10px;
+  border-style: ridge;
+  border-color: black;
+  border-width: medium;
+  width: 500px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:20px ;
+
+}
+
+
+/*section>.red-back>div>h4{
+  text-decoration:underline;
+}
+
+section >.red-back  >div >div 
+{
+  text-decoration: overline;
+}
+
+
+.red-back{
+  background-color: crimson;
+}
+
+.cursive{
+  font-family:cursive;
+}*/
+
+#mentor
+{
+  text-align: center;
+}
+
+
+
+ul.unorderlist{
+  list-style-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb-EVVzeqQXsYWZSx1qcxmc3bcSZVpes_JWkLLeYjq5IU1QVPQ&usqp=CAU');
+  margin-left: 400px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#firstone{
+  font-style: italic;
+}
+
+#lastone
+{
+  text-decoration: underline;
+}
+
+.Italics{
+  color:red;
+  font-style: normal;
+}
+
+
+body>div{
+  height: 300px;
+  width:500px;
+  background-color: darkblue;
+}
+
+.example-class{
+  background-color: darkred;
+}
+
+
+
+
+#example{
+  background-color: floralwhite;
+}
+
+
+#Menu{
+  background-color: indianred;
+  width:100%;
+  height:50px;  
+}
+
+
+#Menu ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+
+}
+
+
+#Menu a{
+  text-decoration: none;
+  color: aliceblue;
+
+}
+
+
+#Menu a:hover{
+  background-color:whitesmoke;
+  color: black;
+}
+
+#Thislist{
+  display:flex;
+
+}
+
+
+
+
+
+
+
+
+/*#Menu ul{
+  list-style-type: none;
+  margin-left: 20%;
+  margin-right: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/*#Menu a{
+  color: aliceblue;
+  text-decoration: none ;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}*/
+
+
+/*#second{
+  padding-left: 400px;
+  padding-right: 400px;
+color: aliceblue;
+}
+
+
+
+#first1{
+  padding-left: 400px;
+  padding-right: 400px;
+color: aliceblue;
+
+}*/
+
+/*#Menu li{
+  display: inline;
+  
+}
+
+#Menu a{
+  text-decoration: none;
+  color: aliceblue;
+padding-right: 100px;
+}
+
+
+#Menu a:hover{
+  background-color: antiquewhite;
+  color: black;
+  flex-flow: row wrap;
+
+} */
+
+
+#Values{
+  display: flex;
+  justify-content: space-around;
+flex-flow: row wrap;
+}
+
+
+
+#unorder{
+  border-style: ridge;
+  border-radius: 10px;
+  border-width: medium;
+padding-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+#order{
+  border-style: ridge;
+  border-radius: 10px;
+  border-width: medium;
+  padding-left:20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+
+#ordersection{
+  font-weight: bolder;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+
+#unorder:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+
+#order:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+
+
+
+#maincontent{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  flex-flow: row wrap;
+}
+
+
+#thismain{
+  display: flex;  
+flex-flow: row wrap;
+}
+
+#thiscont
+{
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kartoffel_pizza_%28with_border%29.jpg/800px-Kartoffel_pizza_%28with_border%29.jpg");
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  border-radius: 10px;
+  border-style: ridge;
+  border-color: black;
+  border-width: medium;
+  width: 500px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:20px ;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+}
+
+#thiscont1{
+
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kartoffel_pizza_%28with_border%29.jpg/800px-Kartoffel_pizza_%28with_border%29.jpg");
+margin-left: 100px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  border-radius: 10px;
+  border-style: ridge;
+  border-color: black;
+  border-width: medium;
+  width: 500px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:20px ;
+}
+
+
+
+
+
+#content-2{
+  background-color: blanchedalmond;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  border-radius: 10px;
+  border-style: ridge;
+  border-color: black;
+  border-width: medium;
+  width: 500px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:20px ; 
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 20px;
+  margin-left: 50px;
+}
+
+
+.testimage:hover{
+
+fil
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

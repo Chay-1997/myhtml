@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+
+  <h1><strong><center>MY RECIPE FOR PIZZA</center> </strong></h1>
+
+<p><h2><strong>Pizza is incredible with its taste and smell and wide variety of values it brings.</strong></h2></p>
+<p><h2><strong>Pizza as a dish is wilderly famous and would love it anytime of day.</strong></h2></p>
+
+<p><h2><strong>Key Ingredients</strong></h2></p>
+
+<ul>
+<li>Flour</li>
+</br>
+</br>
+<li>cheese</li>
+</br>
+</br>
+<li>almonds</li>
+</br>
+</br>
+<li>sauces</li>
+</br>
+</br>
+<li>veggies</li>
+</br>
+</br>
+</ul>
+
+
+<p><h2> <strong>Preparation</strong> </h2></p>
+<ol>
+<li>Beat the flour<h4 id="emoji"> 🍞 </h4> 
+</li>
+<li>shape it<h4 id="emoji"> ⚪ </h4> 
+</li>
+<li>add veggies<h4 id="emoji"> 🍅 </h4>
+</li>
+<li>add sauces<h4 id="emoji"> 😀 </h4>
+</li> 
+<li>warm it <h4 id="emoji"> 😃</h4>
+</li>                 <!-- forum.kirupa.com kirupa chinnathambi-->   
+</ol>
+
+
+<p>
+<strong><h2><em>The pizza gradually should be in a sphericals shape ,while taste as heavenly and as good 
+it should smell perfectly.</em></h2></strong>
+</p>
+
+
+<p> <strong> <h2>The Ready Product </h2> </strong></p>
+<img src="https://i.imgur.com/elVt9VT.jpg" alt="pizza">
+
+<p><h2><strong>Other Best Recipes That You Can Look Upon</strong></h2></p>
+<ol>
+<li><a href="https://www.simplyrecipes.com">Simple Recipes</a></li>
+</br>
+<li><a href="https://tasty.co/recipe/pizza-dough">Tasty recipes</a></li>
+</br>
+<li><a href="https://sallysbakingaddiction.com/homemade-pizza-crust-recipe">Sally Baking </a></li>
+</br>
+<li><a href="https://www.bonappetit.com/recipes/family-meals/slideshow/pizza-recipes"> Bonappetit</a></li>
+</br>
+<li><a href="https://www.realsimple.com/food-recipes/recipe-collections-favorites/quick-easy/pizza-recipes"> Real Simple </a></li>  
+</br>
+</ol>
+
+</br>
+</br>
+
+
+<ul>
+<li><a href="mailto:saichaituu@gmail.com"><stronng>INBOX IN MAIL FOR FUTHER QUERIES </strong></a></li>
+</ul>
+
+</br>
+</br>
+
+
+
+<p><strong><h2>For The More Finished Product Details Click On The Image</h2></strong></p>
+<ul>
+<li><a href="https://i.imgur.com/elVt9VT.jpg">
+<img src="https://i.imgur.com/elVt9VT.jpg" alt="Pizza" width="200" height="200"/>
+</a>
+</ul>
+
+<form action="" method="">
+<fieldset>
+<legend><p><<h2><strong>Please Hit This Survey</strong></h2> </p></legend>
+Enter Your Name:<input type="text" name="Name">
+</br>
+</br>
+Enter Your Age:<input type="number" name="num" min="15" max"60">
+<select>
+<option value="Hyd">Hyderabad</option>
+<option value="Banglore">Banglore</option>
+<option value="Mumbai">Mumbai</option>
+</select>
+
+
+
+
+
+<p> Which are your favourite dishes?</p>
+pizza
+<input type="checkbox" name="">
+</br>
+burger
+<input type="checkbox" name="">
+</br>
+salad
+<input type="checkbox" name="">
+</br>
+other
+<input type="checkbox" name="" checked="checked">
+</br>
+
+
+
+
+
+
+
+
+<p>If like this recipe then click
+</p>
+</br>
+Yes:
+<input type="radio" name="yesorno" values="">
+
+
+<p> If you dont like this Recipe then click this</p>
+</br>
+No:
+<input type="radio" name="yesorno" value="">
+
+</fieldset>
+</br>
+<input type="submit" values="Done">
+</br>
+
+
+
+Drop Your Suggestions:
+<textarea rows="10" cols="40"></textarea></br>
+<input type="submit" values="Done">
+
+
+
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+
+</body>
+</html>
+
+</body>
+</html>
