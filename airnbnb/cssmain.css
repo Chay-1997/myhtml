@@ -1,0 +1,178 @@
+
+#MyForm{
+    font-family: cursive;
+    background-color:white;
+display: table;
+width:20%;
+    border-style: solid;
+    border-color:white;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.row {
+    display: table-row;
+    }
+
+    #Where{
+        text-align: center;
+    }
+    #wheretext{
+        text-align: center;
+    }
+
+    #checkin{
+        text-align: center;
+    }
+    #checkintext{
+        text-align: center;
+    }
+
+    #checkout{
+        text-align: center;
+
+    }
+    #checkouttext{
+        text-align: center;
+    }
+
+    #guest{
+        text-align: center;
+    }
+    #guesttext{
+        text-align: center;
+
+    }
+
+
+
+    #button{
+    background-color: rgb(243, 14, 14);
+    margin-left: 73%;
+    margin-top: 20px;
+
+    border-radius: 5px;
+border-style: solid;
+border-width: 1px;
+width: 25%;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+
+
+
+#Menu{
+    background-color: none;
+    height:40px;
+    
+}
+
+#Menu ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 40%;
+    padding-top: 1%;
+
+}
+
+#Menu li a{
+background-color: none;
+text-decoration: none;
+font-family: monospace;
+color:grey;
+font-weight: bolder;
+}
+
+#Menu a:hover{
+    background-color:antiquewhite;
+    color:black;
+
+}
+
+
+#logo{
+    
+
+
+}
+
+
+header{
+background-image: url("back.jpg");
+height: 50%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#content-section{
+    
+    display:flex;
+    justify-content: space-between;
+    font-family: monospace;
+}
+
+
+#content-section2{
+    display:flex;
+    justify-content: space-between;
+    font-family: monospace;
+}
+
+div.polaroid{
+    width:20%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 50px;
+}
+
+div.container{
+    text-align: center;
+    padding:10px 20px;
+}
+
+
+#polo{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+#foot1{
+border-style: solid;
+border-color: rgba(0, 0, 0, 0.2);
+border-width: thin;
+border-radius: 10px;
+width:20%;
+text-align: center;
+margin-top: 10%;
+}
+
+#foot2{
+    border-style: solid;
+border-color: rgba(0, 0, 0, 0.2);
+border-width: thin;
+border-radius: 10px;
+width:20%;
+text-align: center;
+margin-top: 10%;
+}
+
+#foot3{
+border-style: solid;
+border-color: rgba(0, 0, 0, 0.2);
+border-width: thin;
+border-radius: 10px;
+width:20%;
+text-align: center;
+margin-top: 10%;
+}
+
+
+#mainfooter{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
